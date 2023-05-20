@@ -1,0 +1,69 @@
+/*#9384D1  light*/
+/*#6C5DD3  normal*/
+/*#574AAB  dark*/
+
+#navigationPanel{
+    background-color: #FFFFFF;
+}
+
+#projectView{
+    background-color: #E5E5E5;
+    /*background-color: aquamarine;*/
+}
+
+#sidePanelOptionText{
+    color: #B6B6B6;
+}
+
+#projectGroupCount{
+    color: #B6B6B6;
+}
+
+#projectGroup{
+    /*background-color: green;*/
+}
+
+#projectWidget{
+    background-color: white;
+    border-radius: 10;
+}
+
+#projectDescription{
+    border: none;
+    color: #B6B6B6;
+}
+
+#projectName{
+    border: none;
+}
+
+#projectButton{
+    border: 2 solid #6C5DD3;
+    border-bottom-left-radius: 10;
+    border-bottom-right-radius: 10;
+    /*color: #9384D1;*/
+    color: #6C5DD3;
+}
+
+#projectTag{
+    border-radius: 4;
+}
+
+#projectAddButton{
+    border: none;
+    border-radius: 9;
+    background-color: #6C5DD3;
+}
+
+#scroll{
+    /*background-color: green;*/
+}
+
+#scrollBlock{
+    /*background-color: red;*/
+}
+
+#scrollArea{
+    border: none;
+    /*background-color: blue;*/
+}
